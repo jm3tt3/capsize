@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Expand Model method type hinting (#8279)
