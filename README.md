@@ -1,1 +1,1 @@
-Add KaTeX support + updates to YOLOv9 model page (#8531)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
