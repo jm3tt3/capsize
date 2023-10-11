@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Expand Model method type hinting (#8279)
