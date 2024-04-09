@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
