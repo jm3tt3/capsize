@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Update docs building code (#7601)
