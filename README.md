@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
